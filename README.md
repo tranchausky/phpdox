@@ -6,8 +6,6 @@ This includes, but is not limited to, API documentation. The main focus is on en
 the generated documentation with additional details like code coverage, complexity information
 and more.
 
-[![Build Status](https://travis-ci.org/theseer/phpdox.svg?branch=master)](https://travis-ci.org/theseer/phpdox)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/theseer/phpdox/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/theseer/phpdox/?branch=master)
 
 Requirements
 ------------
@@ -96,6 +94,9 @@ step add code in /src, add file phpdox.xml.dist, run .phar
 
 
     php phpdox-0.12.0.phar   
+    php phpdox-0.12.0.phar --help
+    php phpdox-0.12.0.phar -h
+    php -i  (get php info)
     
 code add all in folder in /src   
 
