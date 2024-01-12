@@ -89,6 +89,10 @@ or you can tell `phpdox` what configuration file to use by calling switch `--fil
 
 composer run example  
 ------------
+get file .phar   
+https://github.com/theseer/phpdox/releases    
+
+
 step config, check .dll need  
 step add code in /src, add file phpdox.xml.dist, run .phar   
 
